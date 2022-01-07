@@ -15,14 +15,15 @@ Once you have met these requirements, go here https://account.mongodb.com/accoun
 <img width="829" alt="image" src="https://user-images.githubusercontent.com/67477587/148616587-1cded469-3a36-4057-9d68-6108acd0b42d.png">
 
 The database can have the following specifications:
+ - Cost: Free
  - Cloud Provider: aws
- - Region: Any region with 'Free Tier' is ok
+ - Region: Any region is ok
 
 Click create. Now on the left tab, click 'Database Access' and create a new user:
 - Enter a username and password that you will remember
 - Select read and write to any database
 
-Next, under 'Network Access', click 'Allow Access from Anywhere' and confirm. Navigate back to your database/cluster and wait for it to be ready. Once it is ready, click 'Connect'
+Next, under 'Network Access', click 'Add IP Address', select 'Allow Access from Anywhere' and confirm. Navigate back to your database/cluster and wait for it to be ready. Once it is ready, click 'Connect'
 
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/67477587/148617123-71a7d78c-1069-44b7-a022-dea1155fdc34.png">
  
