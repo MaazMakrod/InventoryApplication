@@ -35,7 +35,7 @@ Under select your driver version, choose 'Node.js' as your Driver and '3.0 or la
 
 <img width="523" alt="image" src="https://user-images.githubusercontent.com/67477587/148617441-08d4d538-3f72-442d-a1d4-cb5beda1d92e.png">
 
-Insert your password and username where it says to, you will need this string later. Download the code on this repository by clicking Code and Download as Zip
+Copy your password and username, that you created earlier when you were in the 'Database Access' section, where it says to, you will need this string later. Download the code on this repository by clicking Code and Download as Zip
 <img width="669" alt="image" src="https://user-images.githubusercontent.com/67477587/148617998-710e9db9-e328-4dc0-831b-86faced40365.png">
 
 Extract the contents and store the files in a location that is easy to access on your computer, preferably a file path with no spaces. In your file directory, click on the backend folder and open the .env file. This can be done with any text editor or with the code editor if you installed one earlier, like notepad on windows or Text Edit on Apple. 
